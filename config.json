@@ -1,0 +1,17 @@
+{
+    "hostname":"127.0.0.1",
+    "port":3011,
+    "botToken":"5019635220:AAGUB02X2DG9DnZnjmpyRQcqHB3VPNi568Y",
+    "botUrlApi":"api.telegram.org",
+    "redirectURL":"https://kvs.uptaxi.ru/clientBotAuth/redirectApp.html",
+    "inputUrl":"https://ust.uptaxi.ru/bot/telegram/",
+    "inputPort":"",
+    "servicesURL":"https://kvs.uptaxi.ru/apim/v1/ru/services/get/available",
+    "servicesGetInterval":300000,
+    "getTokenURL":"/api/client_mobile/v1/ru/account/auth_via_bot",
+    "getTokenSign":"bbXUvW3Y83nYVibUE8LsxE6QKh5f",
+    "logInFile":true,
+    "logInconsole":false,
+    "puthToLog":"",
+    "logFileName":"log.txt"
+}

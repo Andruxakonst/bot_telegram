@@ -1,0 +1,14 @@
+{
+  "name": "TelegramBot",
+  "version": "1.0.0",
+  "description": "Бот для регистрации через телеграм",
+  "main": "bot_telegram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantinov Andrey Vitalievich",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
